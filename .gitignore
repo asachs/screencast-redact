@@ -1,0 +1,8 @@
+frames/
+verify/
+templates/
+*.mov
+*.mp4
+*.png
+detections.json
+__pycache__/
